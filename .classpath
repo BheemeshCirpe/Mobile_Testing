@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/selenium-server-standalone-3.141.0.jar"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/TestNG/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/TestNG/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="H:/Selenium_Practice/((Java&amp;Selenium))/Projects/Eclipse/Mobile_Testing/External_Jars/TestNG/testng-6.9.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
